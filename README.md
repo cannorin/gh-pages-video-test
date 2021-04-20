@@ -1,6 +1,6 @@
 ## What is this?
 
-This repo tests whether mp4 files hosted in GitHub is auto-played.
+This repo tests whether mp4 files hosted in GitHub will be auto-played.
 
 Visit https://cannorin.github.io/gh-pages-video-test/index.html .
 
